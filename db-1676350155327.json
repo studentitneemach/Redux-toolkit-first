@@ -1,0 +1,60 @@
+{
+  "posts": [],
+  "deleteData": [],
+  "email": [
+    {
+      "name": "User No 1",
+      "email": "userno1@gmail.com",
+      "password": "123123",
+      "id": 0.623604370509558
+    },
+    {
+      "name": "User No 2",
+      "id": 0.7558573740154626,
+      "email": "userno2@gmail.com",
+      "password": "456456"
+    },
+    {
+      "name": "User No 3",
+      "id": 0.5165609521474057,
+      "email": "userno3@gmail.com",
+      "password": "789789"
+    },
+    {
+      "name": "User No 4 ",
+      "email": "userno4@gmail.com",
+      "password": "147147",
+      "id": 0.2548157320240929
+    },
+    {
+      "name": "User No 5",
+      "email": "userno5@gmail.com",
+      "password": "258258",
+      "id": 0.1710026220263685
+    },
+    {
+      "name": "User No 6",
+      "id": 0.2677338623256953,
+      "email": "userno6@gmail.com",
+      "password": "369369"
+    },
+    {
+      "email": "userno7@gmail.com",
+      "name": "User No 7",
+      "password": "987987",
+      "id": 0.606168966288511
+    },
+    {
+      "name": "User No 8",
+      "email": "userno8@gmail.com",
+      "password": "654654",
+      "id": 0.9640519706910724
+    },
+    {
+      "name": "User No 9",
+      "email": "userno9@gmail.com",
+      "password": "321321",
+      "id": 0.0082702879409422
+    }
+  ]
+}
